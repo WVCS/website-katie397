@@ -1,14 +1,6 @@
 body {
   background-color: #2A2E45
 }
-
-h1 {
-  color: #DDDCF9;
-  font size: 200%;
-  backgound-color: n/a;
-  letter-spacing: 2px;
-
-}
 nav {
   list-style-type: none;
   background-color: #D3E2D3;
@@ -32,4 +24,11 @@ li a {
 }
 li a:hover {
   color:#424861;
+}
+h1 {
+  color: #DDDCF9;
+  font size: 200%;
+  backgound-color: n/a;
+  letter-spacing: 2px;
+
 }
