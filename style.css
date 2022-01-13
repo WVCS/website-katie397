@@ -53,3 +53,26 @@ h5 {
   color: white;
   text-decoration: none;
 }
+h5 a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+h5 a:visited {
+  color: #E1D4ED;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+h5 a:hover {
+  color: #424861;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+h5 a:active {
+  color: #F3CEE0;
+  background-color: transparent;
+  text-decoration: underline;
+}
