@@ -61,7 +61,7 @@ h5 a:link {
 }
 
 h5 a:visited {
-  color: #E1D4ED;
+  color: #EFE4F1;
   background-color: transparent;
   text-decoration: underline;
 }
@@ -73,6 +73,29 @@ h5 a:hover {
 }
 
 h5 a:active {
+  color: #F3CEE0;
+  background-color: transparent;
+  text-decoration: underline;
+}
+h4 a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+h4 a:visited {
+  color: #EFE4F1;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+h4 a:hover {
+  color: #424861;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+h4 a:active {
   color: #F3CEE0;
   background-color: transparent;
   text-decoration: underline;
